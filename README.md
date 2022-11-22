@@ -1,4 +1,8 @@
+<<<<<<< HEAD
                      20/11/22             \" DATE
+=======
+                     EDited 20/11/22             \" DATE
+>>>>>>> c41eb950d1305999cabb1cb85757c70f4e20b1fa
 
 .Sh AUTHOR 		\"Akanni Kolawole, Comfort Ajayi Isaac
 
