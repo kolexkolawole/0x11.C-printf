@@ -1,6 +1,6 @@
-                     16/10/22             \" DATE
+                     20/11/22             \" DATE
 
-.Sh AUTHOR 		\"Akanni Kolawole, Comfort Ajayi
+.Sh AUTHOR 		\"Akanni Kolawole, Comfort Ajayi Isaac
 
 .Dt _Printf ( "Alx Software Engineering Printf Manual"  \" Program name and manual section number
 .   
